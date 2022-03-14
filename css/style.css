@@ -3,3 +3,21 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/* positoin classes */
+
+.p-fixed {
+    position: fixed'
+}
+
+.p-abs {
+    position: absolute;
+}
+
+.p-rel {
+    position: relative;
+}
+
+.p-sticky {
+    position: sticky;
+}
