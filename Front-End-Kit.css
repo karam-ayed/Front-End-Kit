@@ -85,3 +85,80 @@
 .flex-shrink-0 {
   flex-shrink: 0;
 }
+
+/* Text Classes */
+.t-center {
+  text-align: center;
+}
+
+.t-left {
+  text-align: left;
+}
+
+.t-right {
+  text-align: right;
+}
+
+.t-ellipsis {
+  text-overflow: ellipsis;
+}
+
+.t-upper {
+  text-transform: uppercase;
+}
+
+.t-lower {
+  text-transform: lowercase;
+}
+
+.t-capitalize {
+  text-transform: capitalize;
+}
+
+.t-ident {
+  text-indent: 50px;
+}
+
+.t-ident {
+  text-indent: 100px;
+}
+
+.l-spacing {
+  letter-spacing: 2px;
+}
+
+.l-spacing {
+  letter-spacing: 3px;
+}
+
+.l-spacing {
+  letter-spacing: 4px;
+}
+
+.l-spacing {
+  letter-spacing: 5px;
+}
+
+.l-height {
+  line-height: 1.5;
+}
+
+.l-height {
+  line-height: 1.6;
+}
+
+.l-height {
+  line-height: 1.8;
+}
+
+.l-height {
+  line-height: 2;
+}
+
+.t-main-color {
+  color: #03A9F4;
+}
+
+.t-second-color {
+  color: #F6F6F6;
+}
