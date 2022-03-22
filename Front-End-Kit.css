@@ -282,3 +282,57 @@
 .mr-l-20 {
   margin-left: 20px;
 }
+/* height class */
+.he-0 {
+  height: 0;
+}
+.he-20 {
+  height: 20px;
+}
+.he-100-vh {
+  height: 100vh;
+}
+.mx-he-100vh {
+  max-height: 100vh;
+}
+.min-he-100vh {
+  min-height: 100vh;
+}
+/* width class */
+.wid-100 {
+  width: 100%;
+}
+.wid-100-vw {
+  width: 100vw;
+}
+.mx-wid-100 {
+  max-width: 100%;
+}
+/* outline class */
+.out-o {
+  outline: none;
+}
+/* anchor link class */
+.tx-dec {
+  text-decoration: none;
+}
+/* border class */
+.br-w-1 {
+  border-width: 1px;
+}
+.br-w-2 {
+  border-width: 2px;
+}
+.br-w-3 {
+  border-width: 3px;
+}
+.br-w-4 {
+  border-width: 4px;
+}
+
+.br-st-so {
+  border-style: solid;
+}
+.br-st-do {
+  border-style: double;
+}
