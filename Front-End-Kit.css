@@ -162,3 +162,123 @@
 .t-second-color {
   color: #F6F6F6;
 }
+
+/* Font Classes */
+.fs-xxs {
+  font-size: xx-small;
+} 
+
+.fs-xs {
+  font-size: x-small;
+} 
+
+.fs-s {
+  font-size: small;
+} 
+
+.fs-m {
+  font-size: medium;
+} 
+
+.fs-l {
+  font-size: large;
+} 
+
+.fs-xl {
+  font-size: x-large;
+} 
+
+.fs-xxl {
+  font-size: xx-large;
+} 
+
+.fs-smaller {
+  font-size: smaller;
+} 
+
+.fs-larger {
+  font-size: larger;
+} 
+
+.fs-10 {
+  font-size: 10px;
+} 
+
+.fs-15 {
+  font-size: 15px;
+} 
+
+.fs-20 {
+  font-size: 20px;
+} 
+
+.fs-24 {
+  font-size: 24px;
+} 
+.fs-32 {
+  font-size: 32px;
+} 
+
+.fs-50p {
+  font-size: 50%;
+} 
+
+.fs-150p {
+  font-size: 150%;
+} 
+
+.fsty-normal {
+  font-style: normal;
+}
+
+.fsty-italic {
+  font-style: italic;
+}
+
+.fsty-oblique {
+  font-style: oblique;
+}
+
+.fw-normal {
+  font-weight: normal;
+}
+
+.fw-bold {
+  font-weight: bold;
+}
+
+.fw-bolder {
+  font-weight: bolder;
+}
+
+.fw-lighter {
+  font-weight: lighter;
+}
+
+.fw-100 {
+  font-weight: 100;
+}
+
+.fw-200 {
+  font-weight: 200;
+}
+
+.fw-300 {
+  font-weight: 300;
+}
+
+.fw-500 {
+  font-weight: 500;
+}
+
+.fw-600 {
+  font-weight: 600;
+}
+
+.fw-800 {
+  font-weight: 800;
+}
+
+.fw-900 {
+  font-weight: 900;
+}
