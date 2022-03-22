@@ -156,10 +156,11 @@
 }
 
 .t-main-color {
-  color: #03A9F4;
+  color: #03a9f4;
 }
 
 .t-second-color {
+<<<<<<< HEAD
   color: #F6F6F6;
 }
 
@@ -281,4 +282,181 @@
 
 .fw-900 {
   font-weight: 900;
+=======
+  color: #f6f6f6;
+}
+/* padding class */
+.pad-0 {
+  padding: 0;
+}
+.pad-t-0 {
+  padding-top: 0;
+}
+.pad-b-0 {
+  padding-bottom: 0;
+}
+.pad-r-0 {
+  padding-right: 0;
+}
+.pad-l-0 {
+  padding-left: 0;
+}
+
+.pad-t-10 {
+  padding-top: 10px;
+}
+.pad-b-10 {
+  padding-bottom: 10px;
+}
+.pad-r-10 {
+  padding-right: 10px;
+}
+.pad-l-10 {
+  padding-left: 10px;
+}
+
+.pad-t-15 {
+  padding-top: 15px;
+}
+.pad-b-15 {
+  padding-bottom: 15px;
+}
+.pad-r-15 {
+  padding-right: 15px;
+}
+.pad-l-15 {
+  padding-left: 15px;
+}
+
+.pad-t-20 {
+  padding-top: 20px;
+}
+.pad-b-20 {
+  padding-bottom: 20px;
+}
+.pad-r-20 {
+  padding-right: 20px;
+}
+.pad-l-20 {
+  padding-left: 20px;
+}
+
+/* margin class */
+.mr-auto {
+  margin: auto;
+}
+.mr-r-auto {
+  margin-right: auto;
+}
+.mr-l-auto {
+  margin-left: auto;
+}
+.mr-0 {
+  margin: 0;
+}
+.mr-t-0 {
+  margin-top: 0;
+}
+.mr-b-0 {
+  margin-bottom: 0;
+}
+.mr-r-0 {
+  margin-right: 0;
+}
+.mr-l-0 {
+  margin-left: 0;
+}
+
+.mr-t-10 {
+  margin-top: 10px;
+}
+.mr-b-10 {
+  margin-bottom: 10px;
+}
+.mr-r-10 {
+  margin-right: 10px;
+}
+.mr-l-10 {
+  margin-left: 10px;
+}
+
+.mr-t-15 {
+  margin-top: 15px;
+}
+.mr-b-15 {
+  margin-bottom: 15px;
+}
+.mr-r-15 {
+  margin-right: 15px;
+}
+.mr-l-15 {
+  margin-left: 15px;
+}
+
+.mr-t-20 {
+  margin-top: 20px;
+}
+.mr-b-20 {
+  margin-bottom: 20px;
+}
+.mr-r-20 {
+  margin-right: 20px;
+}
+.mr-l-20 {
+  margin-left: 20px;
+}
+/* height class */
+.he-0 {
+  height: 0;
+}
+.he-20 {
+  height: 20px;
+}
+.he-100-vh {
+  height: 100vh;
+}
+.mx-he-100vh {
+  max-height: 100vh;
+}
+.min-he-100vh {
+  min-height: 100vh;
+}
+/* width class */
+.wid-100 {
+  width: 100%;
+}
+.wid-100-vw {
+  width: 100vw;
+}
+.mx-wid-100 {
+  max-width: 100%;
+}
+/* outline class */
+.out-o {
+  outline: none;
+}
+/* anchor link class */
+.tx-dec {
+  text-decoration: none;
+}
+/* border class */
+.br-w-1 {
+  border-width: 1px;
+}
+.br-w-2 {
+  border-width: 2px;
+}
+.br-w-3 {
+  border-width: 3px;
+}
+.br-w-4 {
+  border-width: 4px;
+}
+
+.br-st-so {
+  border-style: solid;
+}
+.br-st-do {
+  border-style: double;
+>>>>>>> d6af928e90b2af873c04e6dadcd4801f870ad356
 }
