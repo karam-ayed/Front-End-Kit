@@ -115,43 +115,31 @@
   text-transform: capitalize;
 }
 
-.t-ident {
+.t-ident-50 {
   text-indent: 50px;
 }
 
-.t-ident {
+.t-ident-100 {
   text-indent: 100px;
 }
 
-.l-spacing {
-  letter-spacing: 2px;
-}
+ 
 
-.l-spacing {
-  letter-spacing: 3px;
-}
-
-.l-spacing {
-  letter-spacing: 4px;
-}
-
-.l-spacing {
-  letter-spacing: 5px;
-}
-
-.l-height {
+.l-height-5 {
   line-height: 1.5;
 }
 
-.l-height {
+.l-height-6 {
   line-height: 1.6;
 }
-
-.l-height {
+.l-height-7{
+  line-height: 1.7;
+}
+.l-height-8 {
   line-height: 1.8;
 }
 
-.l-height {
+.l-height-2 {
   line-height: 2;
 }
 
@@ -160,10 +148,38 @@
 }
 
 .t-second-color {
-<<<<<<< HEAD
-  color: #F6F6F6;
+   color: #F6F6F6;
 }
-
+.p-color{
+  color: #333;
+}
+.p-sec-color{
+  color: #343334;
+}
+.bg-main-color{
+  background-color: #F6F6F6;
+}
+.bg-sec-color{
+  background-color: #eaeaea;
+}
+.color-black{
+  color: #000;
+}
+.color-white{
+  color: #fff;
+}
+.bg-white{
+  color: #fff;
+}
+.first-bg-color{
+background-color: #b33939;
+}
+.second-bg-color{
+background-color: #227093;
+}
+.third-bg-color{
+background-color:#218c74 ;
+}
 /* Font Classes */
 .fs-xxs {
   font-size: xx-small;
@@ -236,9 +252,7 @@
   font-style: italic;
 }
 
-.fsty-oblique {
-  font-style: oblique;
-}
+
 
 .fw-normal {
   font-weight: normal;
@@ -256,17 +270,6 @@
   font-weight: lighter;
 }
 
-.fw-100 {
-  font-weight: 100;
-}
-
-.fw-200 {
-  font-weight: 200;
-}
-
-.fw-300 {
-  font-weight: 300;
-}
 
 .fw-500 {
   font-weight: 500;
@@ -282,7 +285,6 @@
 
 .fw-900 {
   font-weight: 900;
-=======
   color: #f6f6f6;
 }
 /* padding class */
@@ -467,8 +469,7 @@
 }
 .br-st-do {
   border-style: double;
->>>>>>> d6af928e90b2af873c04e6dadcd4801f870ad356
-}
+ }
 
 /* grid class */
 
@@ -538,7 +539,7 @@
 .grid-row-3 {
   grid-template-rows: repeat(3, 1fr);
 }
-
+/* gap-class  */
 .gap-5 {
   gap: 5;
 }
@@ -559,6 +560,12 @@
 .d-block {
   display: block;
 }
+.d-inline-block{
+  display: inline-block;
+}
+.d-inline{
+  display: inline;
+}
 /* heading class */
 .h1 {
   font-size: 30px;
@@ -572,4 +579,8 @@
 /* paragraph style */
 .p {
   font-size: 16px;
+}
+/* image class */
+.img-100{
+  width: 100%;
 }
